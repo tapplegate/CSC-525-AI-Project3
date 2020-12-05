@@ -1,3 +1,6 @@
+""" this file serves to create and test a decision tree based on ID3 to predict survial rates of
+passengers on the titanic.
+It formats the data via a secondary class that is imported from formatData.py"""
 from sklearn import preprocessing
 from sklearn import tree
 import matplotlib.pyplot as plt

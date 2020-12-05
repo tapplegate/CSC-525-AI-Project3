@@ -1,3 +1,5 @@
+"""This class serves to format data from Titanic_training and Titanic_test csv files
+into a more reasonable data structure to work with and create a decision tree out of"""
 class Formatting:
     def formatData(df1):
         #get amount of rowsin data
